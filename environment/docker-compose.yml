@@ -1,0 +1,71 @@
+version: "3.8"
+
+services:
+  nacos:
+    image: nacos/nacos-server:v2.3.2
+    env_file:
+      - ./env/nacos.env
+    ports:
+      - 8848:8848
+      - 9848:9848
+    volumes:
+      - ./standalone-logs/:/home/nacos/logs
+    depends_on:
+      mysql:
+        condition: service_healthy
+
+  mysql:
+    container_name: mysql
+    image: mysql:8.0.31
+    env_file:
+      - ./env/mysql.env
+    volumes:
+      - ./mysql1:/var/lib/mysql
+      - ./sql/init-mysql.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - 3306:3306
+    command: [
+      --character-set-server=utf8mb4,
+      --collation-server=utf8mb4_unicode_ci
+    ]
+    healthcheck:
+      test: [ "CMD", "mysqladmin" ,"ping", "-h", "localhost" ]
+      interval: 5s
+      timeout: 10s
+      retries: 10
+
+  namesrv:
+    image: apache/rocketmq:5.2.0
+    container_name: rmqnamesrv
+    ports:
+      - 9876:9876
+    networks:
+      - common
+    command: sh mqnamesrv
+
+  broker:
+    image: apache/rocketmq:5.2.0
+    container_name: rmqbroker
+    ports:
+      - 10909:10909
+      - 10911:10911
+      - 10912:10912
+    environment:
+      - NAMESRV_ADDR=rmqnamesrv:9876
+    depends_on:
+      - namesrv
+    networks:
+      - common
+    command: sh mqbroker
+
+  seata-server:
+    image: seataio/seata-server:2.0.0
+    ports:
+      - 7091:7091
+      - 8091:8091
+    volumes:
+      - "./seata-server/resources:/seata-server/resources"
+
+networks:
+  common:
+    driver: bridge

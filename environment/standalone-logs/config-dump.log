@@ -1,0 +1,48 @@
+2024-08-12 14:07:03,844 INFO [dump] md5 changed, save to disk cache ,groupKey=seata.properties+SEATA_GROUP, newMd5=35821c68a19b1a5361217d88e3ef59c0,oldMd5=
+
+2024-08-12 14:07:03,852 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seata.properties+SEATA_GROUP, newMd5=35821c68a19b1a5361217d88e3ef59c0,oldMd5=,lastModifiedTs=1723279308000
+
+2024-08-12 14:07:03,852 INFO [dump-all-ok] seata.properties+SEATA_GROUP, 1723279308000, length=105,md5UTF8=35821c68a19b1a5361217d88e3ef59c0
+
+2024-08-12 14:48:20,468 INFO [dump] md5 changed, save to disk cache ,groupKey=seata.properties+SEATA_GROUP, newMd5=35821c68a19b1a5361217d88e3ef59c0,oldMd5=
+
+2024-08-12 14:48:20,471 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seata.properties+SEATA_GROUP, newMd5=35821c68a19b1a5361217d88e3ef59c0,oldMd5=,lastModifiedTs=1723279308000
+
+2024-08-12 14:48:20,471 INFO [dump-all-ok] seata.properties+SEATA_GROUP, 1723279308000, length=105,md5UTF8=35821c68a19b1a5361217d88e3ef59c0
+
+2024-08-12 14:50:18,621 INFO [dump] md5 changed, save to disk cache ,groupKey=seata.properties+SEATA_GROUP, newMd5=35821c68a19b1a5361217d88e3ef59c0,oldMd5=
+
+2024-08-12 14:50:18,624 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seata.properties+SEATA_GROUP, newMd5=35821c68a19b1a5361217d88e3ef59c0,oldMd5=,lastModifiedTs=1723279308000
+
+2024-08-12 14:50:18,624 INFO [dump-all-ok] seata.properties+SEATA_GROUP, 1723279308000, length=105,md5UTF8=35821c68a19b1a5361217d88e3ef59c0
+
+2024-08-12 15:44:59,139 INFO [dump] md5 changed, save to disk cache ,groupKey=seata.properties+SEATA_GROUP, newMd5=35821c68a19b1a5361217d88e3ef59c0,oldMd5=
+
+2024-08-12 15:44:59,141 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seata.properties+SEATA_GROUP, newMd5=35821c68a19b1a5361217d88e3ef59c0,oldMd5=,lastModifiedTs=1723279308000
+
+2024-08-12 15:44:59,141 INFO [dump-all-ok] seata.properties+SEATA_GROUP, 1723279308000, length=105,md5UTF8=35821c68a19b1a5361217d88e3ef59c0
+
+2024-08-12 21:16:30,854 INFO [dump] add formal task. groupKey=company-mgmt+DEFAULT_GROUP
+
+2024-08-12 21:16:30,994 INFO [dump] process formal task. groupKey=company-mgmt+DEFAULT_GROUP
+
+2024-08-12 21:16:31,065 INFO [dump] md5 changed, save to disk cache ,groupKey=company-mgmt+DEFAULT_GROUP, newMd5=c700dd607a5cac4bcb9668e440d9f90f,oldMd5=
+
+2024-08-12 21:16:31,072 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=company-mgmt+DEFAULT_GROUP, newMd5=c700dd607a5cac4bcb9668e440d9f90f,oldMd5=,lastModifiedTs=1723468590000
+
+2024-08-12 21:18:22,870 INFO [dump] add formal task. groupKey=company-mgmt+DEFAULT_GROUP
+
+2024-08-12 21:18:22,875 INFO [dump] process formal task. groupKey=company-mgmt+DEFAULT_GROUP
+
+2024-08-12 21:18:22,883 INFO [dump] remove  local disk cache,groupKey=company-mgmt+DEFAULT_GROUP 
+
+2024-08-12 21:18:22,883 INFO [dump] remove  local jvm cache,groupKey=company-mgmt+DEFAULT_GROUP 
+
+2024-08-12 21:18:39,005 INFO [dump] add formal task. groupKey=company-mgmt.properties+DEFAULT_GROUP
+
+2024-08-12 21:18:39,051 INFO [dump] process formal task. groupKey=company-mgmt.properties+DEFAULT_GROUP
+
+2024-08-12 21:18:39,393 INFO [dump] md5 changed, save to disk cache ,groupKey=company-mgmt.properties+DEFAULT_GROUP, newMd5=c700dd607a5cac4bcb9668e440d9f90f,oldMd5=
+
+2024-08-12 21:18:39,403 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=company-mgmt.properties+DEFAULT_GROUP, newMd5=c700dd607a5cac4bcb9668e440d9f90f,oldMd5=,lastModifiedTs=1723468719000
+

@@ -1,0 +1,96 @@
+2024-08-13 00:00:04,955 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:00:04,963 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:00:10,146 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:00:10,188 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:00:15,527 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:00:15,559 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:00:20,973 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:00:20,973 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:00:20,976 DEBUG auth start, request: POST /nacos/v1/cs/configs/listener
+
+2024-08-13 00:00:20,976 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='', name='', type='config', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc0NX0.24fMXeju3KJesq7yqNENBTAmPfeuIDzz2VcCIIuTUk31Fytt91HYafQbbQZqpcPO', globalAdmin=false}
+
+2024-08-13 00:00:25,999 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:00:25,999 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:00:31,069 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:00:31,097 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:00:36,434 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:00:36,434 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:00:41,594 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:00:41,757 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:00:45,505 DEBUG auth start, request: ConfigBatchListenRequest
+
+2024-08-13 00:00:45,542 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='', name='', type='config', properties={requestClass=ConfigBatchListenRequest, action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTkxN30.mhhzIg3ZWuRiDGpx62gxqm7sQTmq6VIHwZc_TetIsoMrkNIBJJqnoHc47yNgGNoP', globalAdmin=false}
+
+2024-08-13 00:00:46,831 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:00:46,831 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:00:50,314 DEBUG auth start, request: ConfigBatchListenRequest
+
+2024-08-13 00:00:50,320 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='', name='', type='config', properties={requestClass=ConfigBatchListenRequest, action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTkyMX0.kKZuUFUbwX6nGS9me-bS-GtlfZCb2ra1vhcF1nz9K47BQheYia7EGAjNFXRfXm0w', globalAdmin=false}
+
+2024-08-13 00:00:50,758 DEBUG auth start, request: POST /nacos/v1/cs/configs/listener
+
+2024-08-13 00:00:50,767 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='', name='', type='config', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc0NX0.24fMXeju3KJesq7yqNENBTAmPfeuIDzz2VcCIIuTUk31Fytt91HYafQbbQZqpcPO', globalAdmin=false}
+
+2024-08-13 00:00:52,114 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:00:52,282 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:00:57,437 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:00:57,437 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:01:02,620 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:01:02,621 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:01:07,680 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:01:07,680 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:01:12,754 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:01:12,755 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:01:17,888 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:01:17,888 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:01:20,466 DEBUG auth start, request: POST /nacos/v1/cs/configs/listener
+
+2024-08-13 00:01:20,466 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='', name='', type='config', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc0NX0.24fMXeju3KJesq7yqNENBTAmPfeuIDzz2VcCIIuTUk31Fytt91HYafQbbQZqpcPO', globalAdmin=false}
+
+2024-08-13 00:01:23,031 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:01:23,032 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:01:28,173 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:01:28,244 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:01:33,505 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:01:33,509 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+
+2024-08-13 00:01:38,602 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2024-08-13 00:01:38,602 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='SEATA_GROUP', name='seata-server', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcyMzQ5MTc1MH0.-XMin-n8yqdlQZDne5lkwnrtEiik8gTbv9fCN6xnJqA-R097pR22diRslcG3AepS', globalAdmin=false}
+

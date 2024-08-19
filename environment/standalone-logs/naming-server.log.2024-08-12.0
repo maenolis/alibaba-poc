@@ -1,0 +1,378 @@
+2024-08-12 14:07:07,082 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-08-12 14:07:07,085 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-08-12 14:07:07,086 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-08-12 14:07:07,086 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-08-12 14:07:09,740 INFO Load instance extension handler []
+
+2024-08-12 14:47:34,346 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-08-12 14:47:34,693 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-08-12 14:48:22,230 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-08-12 14:48:22,230 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-08-12 14:48:22,231 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-08-12 14:48:22,231 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-08-12 14:48:26,804 INFO Load instance extension handler []
+
+2024-08-12 14:49:31,720 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-08-12 14:49:31,980 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-08-12 14:50:21,088 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-08-12 14:50:21,088 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-08-12 14:50:21,088 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-08-12 14:50:21,088 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-08-12 14:50:22,473 INFO Load instance extension handler []
+
+2024-08-12 15:28:36,846 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-08-12 15:28:37,329 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-08-12 15:29:36,363 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2048)
+	at java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2024-08-12 15:29:36,363 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2048)
+	at java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2024-08-12 15:29:36,363 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2048)
+	at java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2024-08-12 15:29:36,363 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2048)
+	at java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2024-08-12 15:29:36,364 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2048)
+	at java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2024-08-12 15:29:36,363 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2048)
+	at java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2024-08-12 15:29:36,363 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2048)
+	at java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2024-08-12 15:29:36,381 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2048)
+	at java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2024-08-12 15:29:36,381 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2048)
+	at java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2024-08-12 15:29:36,381 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2048)
+	at java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2024-08-12 15:29:36,381 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2048)
+	at java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2024-08-12 15:29:36,381 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2048)
+	at java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2024-08-12 15:29:36,382 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2048)
+	at java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2024-08-12 15:29:36,378 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2048)
+	at java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2024-08-12 15:29:36,386 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2048)
+	at java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2024-08-12 15:29:36,368 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2048)
+	at java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2024-08-12 15:45:01,184 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-08-12 15:45:01,185 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-08-12 15:45:01,185 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-08-12 15:45:01,185 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-08-12 15:45:04,297 INFO Load instance extension handler []
+
+2024-08-12 15:52:23,451 INFO Client connection 1723449142872_172.25.0.1_34438 disconnect, remove instances and subscribers
+
+2024-08-12 21:15:08,650 INFO Client connection 172.25.0.3:8091#true connect
+
+2024-08-12 21:15:08,662 INFO Client change for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=0}, 172.25.0.3:8091#true
+
+2024-08-12 21:17:32,496 INFO Client connection 1723468649648_172.25.0.1_38414 disconnect, remove instances and subscribers
+
+2024-08-12 21:18:52,700 INFO Client connection 1723468731982_172.25.0.1_57074 disconnect, remove instances and subscribers
+
+2024-08-12 21:19:57,956 INFO Client connection 1723468797935_172.25.0.1_39356 connect
+
+2024-08-12 21:19:58,575 INFO Client connection 1723468797935_172.25.0.1_39356 disconnect, remove instances and subscribers
+
+2024-08-12 21:19:59,676 INFO Client connection 1723468791980_172.25.0.1_34506 disconnect, remove instances and subscribers
+
+2024-08-12 21:21:13,578 INFO Client connection 1723468873568_172.25.0.1_45436 connect
+
+2024-08-12 21:21:13,592 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='company-mgmt', ephemeral=true, revision=0}, 1723468873568_172.25.0.1_45436
+
+2024-08-12 21:22:16,663 INFO Client connection 1723468936573_172.25.0.1_34928 connect
+
+2024-08-12 21:22:16,684 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='employee-mgmt', ephemeral=true, revision=0}, 1723468936573_172.25.0.1_34928
+
+2024-08-12 21:25:05,805 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='company-mgmt', ephemeral=true, revision=1}, 1723468873568_172.25.0.1_45436
+
+2024-08-12 21:25:06,025 INFO Client connection 1723468873568_172.25.0.1_45436 disconnect, remove instances and subscribers
+
+2024-08-12 21:25:06,640 INFO Client connection 1723468869146_172.25.0.1_45424 disconnect, remove instances and subscribers
+
+2024-08-12 21:26:35,340 WARN namespace : public, [DEFAULT_GROUP@@company-mgmt] services are automatically cleaned
+
+2024-08-12 21:31:11,412 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='employee-mgmt', ephemeral=true, revision=1}, 1723468936573_172.25.0.1_34928
+
+2024-08-12 21:31:11,657 INFO Client connection 1723468936573_172.25.0.1_34928 disconnect, remove instances and subscribers
+
+2024-08-12 21:31:44,969 INFO Client connection 1723469504422_172.25.0.1_34062 connect
+
+2024-08-12 21:31:45,430 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='employee-mgmt', ephemeral=true, revision=2}, 1723469504422_172.25.0.1_34062
+
+2024-08-12 21:32:01,326 INFO Client connection 1723469521302_172.25.0.1_36712 connect
+
+2024-08-12 21:32:13,787 INFO Client connection 1723469533773_172.25.0.1_52512 connect
+
+2024-08-12 21:32:13,794 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='company-mgmt', ephemeral=true, revision=0}, 1723469533773_172.25.0.1_52512
+
+2024-08-12 21:38:48,968 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='company-mgmt', ephemeral=true, revision=1}, 1723469533773_172.25.0.1_52512
+
+2024-08-12 21:38:49,276 INFO Client connection 1723469533773_172.25.0.1_52512 disconnect, remove instances and subscribers
+
+2024-08-12 21:38:51,026 INFO Client connection 1723469518215_172.25.0.1_36704 disconnect, remove instances and subscribers
+
+2024-08-12 21:38:51,032 INFO Client connection 1723469515501_172.25.0.1_53706 disconnect, remove instances and subscribers
+
+2024-08-12 21:38:51,044 INFO Client connection 1723469521302_172.25.0.1_36712 disconnect, remove instances and subscribers
+
+2024-08-12 21:39:18,613 INFO Client connection 1723469958490_172.25.0.1_57718 connect
+
+2024-08-12 21:39:29,812 INFO Client connection 1723469969557_172.25.0.1_55188 connect
+
+2024-08-12 21:39:30,217 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='company-mgmt', ephemeral=true, revision=2}, 1723469969557_172.25.0.1_55188
+
+2024-08-12 21:51:20,506 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='company-mgmt', ephemeral=true, revision=3}, 1723469969557_172.25.0.1_55188
+
+2024-08-12 21:51:20,857 INFO Client connection 1723469969557_172.25.0.1_55188 disconnect, remove instances and subscribers
+
+2024-08-12 21:51:22,245 INFO Client connection 1723469956894_172.25.0.1_51376 disconnect, remove instances and subscribers
+
+2024-08-12 21:51:22,249 INFO Client connection 1723469954419_172.25.0.1_51368 disconnect, remove instances and subscribers
+
+2024-08-12 21:51:22,250 INFO Client connection 1723469958490_172.25.0.1_57718 disconnect, remove instances and subscribers
+
+2024-08-12 21:52:36,161 WARN namespace : public, [DEFAULT_GROUP@@company-mgmt] services are automatically cleaned
+
+2024-08-12 21:52:54,985 INFO Client connection 1723470774108_172.25.0.1_59548 connect
+
+2024-08-12 21:53:27,841 INFO Client connection 1723470807661_172.25.0.1_47506 connect
+
+2024-08-12 21:53:28,111 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='company-mgmt', ephemeral=true, revision=0}, 1723470807661_172.25.0.1_47506
+
+2024-08-12 21:54:41,414 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='company-mgmt', ephemeral=true, revision=1}, 1723470807661_172.25.0.1_47506
+
+2024-08-12 21:54:41,459 INFO Client connection 1723470807661_172.25.0.1_47506 disconnect, remove instances and subscribers
+
+2024-08-12 21:54:41,934 INFO Client connection 1723470774108_172.25.0.1_59548 disconnect, remove instances and subscribers
+
+2024-08-12 21:54:41,934 INFO Client connection 1723470734616_172.25.0.1_39262 disconnect, remove instances and subscribers
+
+2024-08-12 21:54:41,935 INFO Client connection 1723470762045_172.25.0.1_40740 disconnect, remove instances and subscribers
+
+2024-08-12 21:54:58,110 INFO Client connection 1723470897921_172.25.0.1_34536 connect
+
+2024-08-12 21:56:36,222 WARN namespace : public, [DEFAULT_GROUP@@company-mgmt] services are automatically cleaned
+
+2024-08-12 21:59:02,889 INFO Client connection 1723470897921_172.25.0.1_34536 disconnect, remove instances and subscribers
+
+2024-08-12 21:59:02,909 INFO Client connection 1723470893573_172.25.0.1_39974 disconnect, remove instances and subscribers
+
+2024-08-12 21:59:02,921 INFO Client connection 1723470896418_172.25.0.1_39986 disconnect, remove instances and subscribers
+
+2024-08-12 22:00:13,922 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='employee-mgmt', ephemeral=true, revision=3}, 1723469504422_172.25.0.1_34062
+
+2024-08-12 22:00:14,182 INFO Client connection 1723469504422_172.25.0.1_34062 disconnect, remove instances and subscribers
+
+2024-08-12 22:00:28,927 INFO Client connection 1723471151980_172.25.0.1_57382 disconnect, remove instances and subscribers
+
+2024-08-12 22:00:29,023 INFO Client connection 1723471154937_172.25.0.1_57398 disconnect, remove instances and subscribers
+
+2024-08-12 22:01:36,264 WARN namespace : public, [DEFAULT_GROUP@@employee-mgmt] services are automatically cleaned
+
+2024-08-12 22:02:00,442 INFO Client connection 1723471319285_172.25.0.1_44858 connect
+
+2024-08-12 22:02:01,542 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='employee-mgmt', ephemeral=true, revision=0}, 1723471319285_172.25.0.1_44858
+
+2024-08-12 22:02:01,762 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='employee-mgmt', ephemeral=true, revision=1}, 1723471319285_172.25.0.1_44858
+
+2024-08-12 22:02:21,095 INFO Client connection 1723471340952_172.25.0.1_55816 connect
+
+2024-08-12 22:06:19,520 INFO Client connection 1723471319793_172.25.0.1_44860 disconnect, remove instances and subscribers
+
+2024-08-12 22:06:19,522 INFO Client connection 1723471288362_172.25.0.1_59474 disconnect, remove instances and subscribers
+
+2024-08-12 22:06:19,526 INFO Client connection 1723471340952_172.25.0.1_55816 disconnect, remove instances and subscribers
+
+2024-08-12 22:06:52,493 INFO Client connection 1723471612342_172.25.0.1_34590 connect
+
+2024-08-12 22:11:58,789 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='employee-mgmt', ephemeral=true, revision=2}, 1723471319285_172.25.0.1_44858
+
+2024-08-12 22:11:58,848 INFO Client connection 1723471319285_172.25.0.1_44858 disconnect, remove instances and subscribers
+
+2024-08-12 22:11:59,113 INFO Client connection 1723471607699_172.25.0.1_34566 disconnect, remove instances and subscribers
+
+2024-08-12 22:11:59,132 INFO Client connection 1723471610134_172.25.0.1_34574 disconnect, remove instances and subscribers
+
+2024-08-12 22:11:59,152 INFO Client connection 1723471612342_172.25.0.1_34590 disconnect, remove instances and subscribers
+
+2024-08-12 22:12:56,792 INFO Client connection 1723471976512_172.25.0.1_36036 connect
+
+2024-08-12 22:13:00,862 INFO Client connection 1723471980407_172.25.0.1_55776 connect
+
+2024-08-12 22:13:01,134 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='employee-mgmt', ephemeral=true, revision=3}, 1723471980407_172.25.0.1_55776
+
+2024-08-12 22:14:11,945 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='employee-mgmt', ephemeral=true, revision=4}, 1723471980407_172.25.0.1_55776
+
+2024-08-12 22:14:12,211 INFO Client connection 1723471955873_172.25.0.1_36912 disconnect, remove instances and subscribers
+
+2024-08-12 22:14:12,212 INFO Client connection 1723471976512_172.25.0.1_36036 disconnect, remove instances and subscribers
+
+2024-08-12 22:14:12,225 INFO Client connection 1723471980407_172.25.0.1_55776 disconnect, remove instances and subscribers
+
+2024-08-12 22:14:12,241 INFO Client connection 1723471971731_172.25.0.1_36034 disconnect, remove instances and subscribers
+
+2024-08-12 22:15:36,520 WARN namespace : public, [DEFAULT_GROUP@@employee-mgmt] services are automatically cleaned
+
+2024-08-12 22:15:42,352 INFO Client connection 1723472142122_172.25.0.1_52430 connect
+
+2024-08-12 22:16:03,305 INFO Client connection 1723472162190_172.25.0.1_33728 connect
+
+2024-08-12 22:16:04,661 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='employee-mgmt', ephemeral=true, revision=0}, 1723472162190_172.25.0.1_33728
+
+2024-08-12 22:27:12,984 INFO Client connection 1723472103960_172.25.0.1_46178 disconnect, remove instances and subscribers
+
+2024-08-12 22:27:12,993 INFO Client connection 1723472142122_172.25.0.1_52430 disconnect, remove instances and subscribers
+
+2024-08-12 22:27:13,002 INFO Client connection 1723472138984_172.25.0.1_52418 disconnect, remove instances and subscribers
+
+2024-08-12 22:27:29,246 INFO Client connection 1723472849125_172.25.0.1_42664 connect
+
+2024-08-12 22:28:07,558 INFO Client connection 1723472849125_172.25.0.1_42664 disconnect, remove instances and subscribers
+
+2024-08-12 22:28:07,559 INFO Client connection 1723472848022_172.25.0.1_42656 disconnect, remove instances and subscribers
+
+2024-08-12 22:28:07,559 INFO Client connection 1723472844997_172.25.0.1_59346 disconnect, remove instances and subscribers
+
+2024-08-12 22:37:29,947 INFO Client connection 1723472919101_172.25.0.1_54924 disconnect, remove instances and subscribers
+
+2024-08-12 22:37:29,956 INFO Client connection 1723472909961_172.25.0.1_37224 disconnect, remove instances and subscribers
+
+2024-08-12 22:37:48,241 INFO Client connection 1723473468098_172.25.0.1_48246 connect
+
+2024-08-12 22:40:38,385 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='employee-mgmt', ephemeral=true, revision=1}, 1723472162190_172.25.0.1_33728
+
+2024-08-12 22:40:38,543 INFO Client connection 1723472162190_172.25.0.1_33728 disconnect, remove instances and subscribers
+
+2024-08-12 22:40:38,991 INFO Client connection 1723473468098_172.25.0.1_48246 disconnect, remove instances and subscribers
+
+2024-08-12 22:40:39,013 INFO Client connection 1723473464353_172.25.0.1_44280 disconnect, remove instances and subscribers
+
+2024-08-12 22:40:39,024 INFO Client connection 1723473467307_172.25.0.1_48232 disconnect, remove instances and subscribers
+
+2024-08-12 22:40:49,064 INFO Client remove for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=1}, 172.25.0.3:8091#true
+
+2024-08-12 22:41:23,644 INFO Client connection 172.25.0.3:8091#true disconnect, remove instances and subscribers
+
+2024-08-12 22:42:30,333 INFO Client connection 172.25.0.3:8091#true connect
+
+2024-08-12 22:42:30,345 INFO Client change for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=2}, 172.25.0.3:8091#true
+
+2024-08-12 22:42:36,686 WARN namespace : public, [DEFAULT_GROUP@@employee-mgmt] services are automatically cleaned
+
+2024-08-12 22:42:56,941 INFO Client connection 1723473776918_172.25.0.1_40416 connect
+
+2024-08-12 22:45:07,979 INFO Client connection 1723473772998_172.25.0.1_59348 disconnect, remove instances and subscribers
+
+2024-08-12 22:45:07,991 INFO Client connection 1723473775950_172.25.0.1_59356 disconnect, remove instances and subscribers
+
+2024-08-12 22:45:07,997 INFO Client connection 1723473776918_172.25.0.1_40416 disconnect, remove instances and subscribers
+
+2024-08-12 22:45:23,032 INFO Client connection 1723473922827_172.25.0.1_46318 connect
+
+2024-08-12 22:47:07,909 INFO Client connection 1723474027470_172.25.0.1_53888 connect
+
+2024-08-12 22:47:08,275 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='employee-mgmt', ephemeral=true, revision=0}, 1723474027470_172.25.0.1_53888
+

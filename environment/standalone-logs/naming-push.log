@@ -1,0 +1,24 @@
+2024-08-12 21:32:02,194 INFO [PUSH-SUCC] 169ms, all delay time 700ms for subscriber 192.168.1.11, Service{namespace='public', group='DEFAULT_GROUP', name='seata-server', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2024-08-12 21:39:19,557 INFO [PUSH-SUCC] 121ms, all delay time 682ms for subscriber 192.168.1.11, Service{namespace='public', group='DEFAULT_GROUP', name='seata-server', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2024-08-12 21:52:57,253 INFO [PUSH-SUCC] 317ms, all delay time 930ms for subscriber 192.168.1.11, Service{namespace='public', group='DEFAULT_GROUP', name='seata-server', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2024-08-12 21:54:59,011 INFO [PUSH-SUCC] 142ms, all delay time 668ms for subscriber 192.168.1.11, Service{namespace='public', group='DEFAULT_GROUP', name='seata-server', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2024-08-12 22:02:01,780 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='employee-mgmt', ephemeral=true, revision=2}
+
+2024-08-12 22:02:22,313 INFO [PUSH-SUCC] 461ms, all delay time 1032ms for subscriber 192.168.1.11, Service{namespace='public', group='DEFAULT_GROUP', name='seata-server', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2024-08-12 22:06:53,322 INFO [PUSH-SUCC] 115ms, all delay time 701ms for subscriber 192.168.1.11, Service{namespace='public', group='DEFAULT_GROUP', name='seata-server', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2024-08-12 22:15:43,180 INFO [PUSH-SUCC] 75ms, all delay time 675ms for subscriber 192.168.1.11, Service{namespace='public', group='DEFAULT_GROUP', name='seata-server', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2024-08-12 22:27:30,015 INFO [PUSH-SUCC] 189ms, all delay time 761ms for subscriber 192.168.1.11, Service{namespace='public', group='DEFAULT_GROUP', name='seata-server', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2024-08-12 22:37:49,112 INFO [PUSH-SUCC] 96ms, all delay time 705ms for subscriber 192.168.1.11, Service{namespace='public', group='DEFAULT_GROUP', name='seata-server', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2024-08-12 22:42:57,685 INFO [PUSH-SUCC] 123ms, all delay time 728ms for subscriber 192.168.1.11, Service{namespace='public', group='DEFAULT_GROUP', name='seata-server', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+
+2024-08-12 22:45:23,794 INFO [PUSH-SUCC] 157ms, all delay time 715ms for subscriber 192.168.1.11, Service{namespace='public', group='DEFAULT_GROUP', name='seata-server', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+

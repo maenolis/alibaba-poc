@@ -1,0 +1,36 @@
+2024-08-09 20:40:00,199 INFO [dump] md5 changed, save to disk cache ,groupKey=service.vgroupMapping.employee-mgmt-tx-group+SEATA_GROUP, newMd5=c21f969b5f03d33d43e04f8f136e7682,oldMd5=
+
+2024-08-09 20:40:00,202 INFO [dump] md5 changed, save to disk cache ,groupKey=company-properties+DEFAULT_GROUP, newMd5=90b4e7bb9ff7318ef2957d14b788f257,oldMd5=
+
+2024-08-09 20:40:00,203 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=service.vgroupMapping.employee-mgmt-tx-group+SEATA_GROUP, newMd5=c21f969b5f03d33d43e04f8f136e7682,oldMd5=,lastModifiedTs=1720443537000
+
+2024-08-09 20:40:00,213 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=company-properties+DEFAULT_GROUP, newMd5=90b4e7bb9ff7318ef2957d14b788f257,oldMd5=,lastModifiedTs=1720721983000
+
+2024-08-09 20:40:00,214 INFO [dump-all-ok] company-properties+DEFAULT_GROUP, 1720721983000, length=20,md5UTF8=90b4e7bb9ff7318ef2957d14b788f257
+
+2024-08-09 20:40:00,214 INFO [dump-all-ok] service.vgroupMapping.employee-mgmt-tx-group+SEATA_GROUP, 1720443537000, length=7,md5UTF8=c21f969b5f03d33d43e04f8f136e7682
+
+2024-08-09 20:40:00,210 INFO [dump] md5 changed, save to disk cache ,groupKey=company-mgmt.properties+DEFAULT_GROUP, newMd5=c700dd607a5cac4bcb9668e440d9f90f,oldMd5=
+
+2024-08-09 20:40:00,215 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=company-mgmt.properties+DEFAULT_GROUP, newMd5=c700dd607a5cac4bcb9668e440d9f90f,oldMd5=,lastModifiedTs=1721802361000
+
+2024-08-09 20:40:00,215 INFO [dump-all-ok] company-mgmt.properties+DEFAULT_GROUP, 1721802361000, length=9,md5UTF8=c700dd607a5cac4bcb9668e440d9f90f
+
+2024-08-09 20:42:19,484 INFO [dump] md5 changed, save to disk cache ,groupKey=company-mgmt.properties+DEFAULT_GROUP, newMd5=c700dd607a5cac4bcb9668e440d9f90f,oldMd5=
+
+2024-08-09 20:42:19,484 INFO [dump] md5 changed, save to disk cache ,groupKey=service.vgroupMapping.employee-mgmt-tx-group+SEATA_GROUP, newMd5=c21f969b5f03d33d43e04f8f136e7682,oldMd5=
+
+2024-08-09 20:42:19,484 INFO [dump] md5 changed, save to disk cache ,groupKey=company-properties+DEFAULT_GROUP, newMd5=90b4e7bb9ff7318ef2957d14b788f257,oldMd5=
+
+2024-08-09 20:42:19,512 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=service.vgroupMapping.employee-mgmt-tx-group+SEATA_GROUP, newMd5=c21f969b5f03d33d43e04f8f136e7682,oldMd5=,lastModifiedTs=1720443537000
+
+2024-08-09 20:42:19,512 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=company-properties+DEFAULT_GROUP, newMd5=90b4e7bb9ff7318ef2957d14b788f257,oldMd5=,lastModifiedTs=1720721983000
+
+2024-08-09 20:42:19,512 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=company-mgmt.properties+DEFAULT_GROUP, newMd5=c700dd607a5cac4bcb9668e440d9f90f,oldMd5=,lastModifiedTs=1721802361000
+
+2024-08-09 20:42:19,513 INFO [dump-all-ok] service.vgroupMapping.employee-mgmt-tx-group+SEATA_GROUP, 1720443537000, length=7,md5UTF8=c21f969b5f03d33d43e04f8f136e7682
+
+2024-08-09 20:42:19,513 INFO [dump-all-ok] company-mgmt.properties+DEFAULT_GROUP, 1721802361000, length=9,md5UTF8=c700dd607a5cac4bcb9668e440d9f90f
+
+2024-08-09 20:42:19,513 INFO [dump-all-ok] company-properties+DEFAULT_GROUP, 1720721983000, length=20,md5UTF8=90b4e7bb9ff7318ef2957d14b788f257
+

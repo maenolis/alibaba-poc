@@ -1,0 +1,70 @@
+server:
+  port: 18085
+
+spring:
+  application:
+    name: company-mgmt
+  datasource:
+    name: storageDataSource
+    #    druid don't support GraalVM now because of there is CGlib proxy
+    #    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://${base.config.mdb.hostname}:${base.config.mdb.port}/${base.config.mdb.dbname}?useSSL=false&serverTimezone=UTC
+    username: ${base.config.mdb.username}
+    password: ${base.config.mdb.password}
+  config:
+    import: nacos:company-mgmt.properties?refreshEnabled=true
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+        fail-fast: true
+        username: 'nacos'
+        password: 'nacos'
+      config:
+        server-addr: 127.0.0.1:8848
+        username: 'nacos'
+        password: 'nacos'
+    stream:
+      function:
+        definition: consumer
+      rocketmq:
+        binder:
+          name-server: 127.0.0.1:9876
+        bindings:
+          consumer-in-0:
+            consumer:
+              messageModel: BROADCASTING
+      bindings:
+        consumer-in-0:
+          destination: broadcast
+          group: broadcast-consumer
+
+base:
+  config:
+    mdb:
+      hostname: 127.0.0.1 #your mysql server ip address
+      dbname: nacos_devtest #your database name for test
+      port: 3306 #your mysql server listening port
+      username: 'nacos' #your mysql server username
+      password: 'nacos' #your mysql server password
+
+seata:
+  enabled: true
+  application-id: ${spring.application.name}
+
+  tx-service-group: ${spring.application.name}-tx-group
+  config:
+    type: nacos
+    nacos:
+      serverAddr: 127.0.0.1:8848
+      dataId: "seata.properties"
+      username: 'nacos'
+      password: 'nacos'
+  registry:
+    type: nacos
+    nacos:
+      application: seata-server
+      server-addr: 127.0.0.1:8848
+      username: 'nacos'
+      password: 'nacos'

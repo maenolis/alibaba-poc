@@ -1,0 +1,1198 @@
+2024-08-09 20:39:58,461 INFO [long-pulling] client count 0
+
+2024-08-09 20:40:08,466 INFO [long-pulling] client count 0
+
+2024-08-09 20:40:08,639 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:40:08,770 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:40:08,770 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:40:18,468 INFO [long-pulling] client count 0
+
+2024-08-09 20:40:18,770 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:40:18,771 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:40:18,771 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:40:28,469 INFO [long-pulling] client count 0
+
+2024-08-09 20:40:28,772 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:40:28,772 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:40:28,772 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:40:38,474 INFO [long-pulling] client count 0
+
+2024-08-09 20:40:38,773 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:40:38,773 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:40:38,773 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:40:48,474 INFO [long-pulling] client count 0
+
+2024-08-09 20:40:48,783 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:40:48,783 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:40:48,786 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:40:58,475 INFO [long-pulling] client count 0
+
+2024-08-09 20:40:58,787 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:40:58,787 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:40:58,787 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:41:08,479 INFO [long-pulling] client count 0
+
+2024-08-09 20:41:08,788 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:41:08,788 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:41:08,788 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:41:18,480 INFO [long-pulling] client count 0
+
+2024-08-09 20:41:18,789 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:41:18,789 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:41:18,789 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:42:18,986 INFO [long-pulling] client count 0
+
+2024-08-09 20:42:29,008 INFO [long-pulling] client count 0
+
+2024-08-09 20:42:29,143 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:42:29,143 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:42:29,143 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:42:39,008 INFO [long-pulling] client count 0
+
+2024-08-09 20:42:39,144 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:42:39,144 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:42:39,144 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:42:49,057 INFO [long-pulling] client count 0
+
+2024-08-09 20:42:49,147 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:42:49,151 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:42:49,151 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:42:59,063 INFO [long-pulling] client count 0
+
+2024-08-09 20:42:59,152 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:42:59,153 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:42:59,153 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:43:09,064 INFO [long-pulling] client count 0
+
+2024-08-09 20:43:09,154 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:43:09,154 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:43:09,154 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:43:19,066 INFO [long-pulling] client count 0
+
+2024-08-09 20:43:19,155 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:43:19,155 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:43:19,155 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:43:29,068 INFO [long-pulling] client count 0
+
+2024-08-09 20:43:29,155 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:43:29,155 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:43:29,155 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:43:39,070 INFO [long-pulling] client count 0
+
+2024-08-09 20:43:39,157 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:43:39,157 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:43:39,157 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:43:49,072 INFO [long-pulling] client count 0
+
+2024-08-09 20:43:49,159 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:43:49,159 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:43:49,160 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:43:59,075 INFO [long-pulling] client count 0
+
+2024-08-09 20:43:59,164 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:43:59,164 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:43:59,164 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:44:09,079 INFO [long-pulling] client count 0
+
+2024-08-09 20:44:09,173 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 20:44:09,178 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:44:09,185 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:44:19,080 INFO [long-pulling] client count 0
+
+2024-08-09 20:44:19,186 INFO toNotifyTaskSize = 0
+
+2024-08-09 20:44:19,186 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 20:44:19,188 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:07:09,449 INFO [long-pulling] client count 0
+
+2024-08-09 21:07:19,559 INFO [long-pulling] client count 0
+
+2024-08-09 21:07:19,586 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:07:19,603 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:07:19,603 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:07:29,562 INFO [long-pulling] client count 0
+
+2024-08-09 21:07:29,588 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:07:29,612 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:07:29,615 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:07:39,563 INFO [long-pulling] client count 0
+
+2024-08-09 21:07:39,590 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:07:39,616 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:07:39,617 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:07:49,567 INFO [long-pulling] client count 0
+
+2024-08-09 21:07:49,592 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:07:49,617 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:07:49,617 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:07:59,572 INFO [long-pulling] client count 0
+
+2024-08-09 21:07:59,633 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:07:59,633 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:07:59,642 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:08:09,582 INFO [long-pulling] client count 0
+
+2024-08-09 21:08:09,634 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:08:09,643 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:08:09,643 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:08:19,583 INFO [long-pulling] client count 0
+
+2024-08-09 21:08:19,653 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:08:19,653 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:08:19,653 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:08:29,590 INFO [long-pulling] client count 0
+
+2024-08-09 21:08:29,659 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:08:29,659 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:08:29,659 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:08:39,593 INFO [long-pulling] client count 0
+
+2024-08-09 21:08:39,667 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:08:39,667 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:08:39,667 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:08:49,599 INFO [long-pulling] client count 0
+
+2024-08-09 21:08:49,668 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:08:49,668 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:08:49,668 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:08:59,601 INFO [long-pulling] client count 0
+
+2024-08-09 21:08:59,672 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:08:59,674 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:08:59,674 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:09:09,681 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:09:09,681 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:09:09,681 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:09:09,739 INFO [long-pulling] client count 0
+
+2024-08-09 21:09:19,681 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:09:19,681 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:09:19,681 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:09:19,745 INFO [long-pulling] client count 0
+
+2024-08-09 21:09:29,683 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:09:29,683 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:09:29,683 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:09:29,745 INFO [long-pulling] client count 0
+
+2024-08-09 21:09:39,695 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:09:39,707 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:09:39,698 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:09:39,748 INFO [long-pulling] client count 0
+
+2024-08-09 21:09:49,708 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:09:49,708 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:09:49,708 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:09:49,749 INFO [long-pulling] client count 0
+
+2024-08-09 21:09:59,711 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:09:59,718 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:09:59,720 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:09:59,750 INFO [long-pulling] client count 0
+
+2024-08-09 21:10:09,732 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:10:09,732 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:10:09,732 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:10:09,752 INFO [long-pulling] client count 0
+
+2024-08-09 21:10:19,733 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:10:19,733 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:10:19,733 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:10:19,754 INFO [long-pulling] client count 0
+
+2024-08-09 21:10:29,750 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:10:29,750 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:10:29,750 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:10:29,758 INFO [long-pulling] client count 0
+
+2024-08-09 21:10:39,753 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:10:39,753 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:10:39,753 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:10:39,758 INFO [long-pulling] client count 0
+
+2024-08-09 21:10:49,753 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:10:49,753 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:10:49,753 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:10:49,758 INFO [long-pulling] client count 0
+
+2024-08-09 21:10:59,754 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:10:59,754 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:10:59,754 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:10:59,758 INFO [long-pulling] client count 0
+
+2024-08-09 21:11:09,758 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:11:09,758 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:11:09,758 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:11:09,760 INFO [long-pulling] client count 0
+
+2024-08-09 21:11:19,763 INFO [long-pulling] client count 0
+
+2024-08-09 21:11:19,766 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:11:19,767 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:11:19,768 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:11:29,771 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:11:29,774 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:11:29,774 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:11:29,779 INFO [long-pulling] client count 0
+
+2024-08-09 21:11:39,776 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:11:39,779 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:11:39,779 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:11:39,781 INFO [long-pulling] client count 0
+
+2024-08-09 21:11:49,782 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:11:49,782 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:11:49,782 INFO [long-pulling] client count 0
+
+2024-08-09 21:11:49,782 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:11:59,782 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:11:59,782 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:11:59,782 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:11:59,783 INFO [long-pulling] client count 0
+
+2024-08-09 21:12:09,785 INFO [long-pulling] client count 0
+
+2024-08-09 21:12:09,791 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:12:09,791 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:12:09,791 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:12:19,787 INFO [long-pulling] client count 0
+
+2024-08-09 21:12:19,795 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:12:19,795 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:12:19,795 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:12:29,790 INFO [long-pulling] client count 0
+
+2024-08-09 21:12:29,796 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:12:29,796 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:12:29,796 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:12:39,791 INFO [long-pulling] client count 0
+
+2024-08-09 21:12:39,796 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:12:39,796 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:12:39,796 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:12:49,798 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:12:49,798 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:12:49,798 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:12:49,801 INFO [long-pulling] client count 0
+
+2024-08-09 21:12:59,802 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:12:59,802 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:12:59,802 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:12:59,803 INFO [long-pulling] client count 0
+
+2024-08-09 21:13:09,805 INFO [long-pulling] client count 0
+
+2024-08-09 21:13:09,810 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:13:09,810 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:13:09,811 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:13:19,809 INFO [long-pulling] client count 0
+
+2024-08-09 21:13:19,814 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:13:19,814 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:13:19,820 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:13:29,813 INFO [long-pulling] client count 0
+
+2024-08-09 21:13:29,823 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:13:29,823 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:13:29,823 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:13:39,821 INFO [long-pulling] client count 0
+
+2024-08-09 21:13:39,826 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:13:39,826 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:13:39,826 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:13:49,822 INFO [long-pulling] client count 0
+
+2024-08-09 21:13:49,827 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:13:49,827 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:13:49,827 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:13:59,823 INFO [long-pulling] client count 0
+
+2024-08-09 21:13:59,827 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:13:59,827 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:13:59,827 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:14:09,823 INFO [long-pulling] client count 0
+
+2024-08-09 21:14:09,827 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:14:09,827 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:14:09,827 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:14:19,826 INFO [long-pulling] client count 0
+
+2024-08-09 21:14:19,839 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:14:19,839 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:14:19,839 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:14:29,832 INFO [long-pulling] client count 0
+
+2024-08-09 21:14:29,852 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:14:29,852 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:14:29,852 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:14:39,834 INFO [long-pulling] client count 0
+
+2024-08-09 21:14:39,854 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:14:39,854 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:14:39,854 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:14:49,856 INFO [long-pulling] client count 0
+
+2024-08-09 21:14:49,857 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:14:49,860 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:14:49,864 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:14:59,863 INFO [long-pulling] client count 0
+
+2024-08-09 21:14:59,872 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:14:59,872 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:14:59,880 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:15:09,864 INFO [long-pulling] client count 0
+
+2024-08-09 21:15:09,882 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:15:09,884 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:15:09,884 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:15:19,869 INFO [long-pulling] client count 0
+
+2024-08-09 21:15:19,894 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:15:19,894 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:15:19,895 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:15:29,870 INFO [long-pulling] client count 0
+
+2024-08-09 21:15:29,894 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:15:29,894 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:15:29,905 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:15:39,871 INFO [long-pulling] client count 0
+
+2024-08-09 21:15:39,894 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:15:39,895 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:15:39,906 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:15:49,874 INFO [long-pulling] client count 0
+
+2024-08-09 21:15:49,903 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:15:49,903 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:15:49,907 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:15:59,883 INFO [long-pulling] client count 0
+
+2024-08-09 21:15:59,903 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:15:59,903 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:15:59,915 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:16:09,886 INFO [long-pulling] client count 0
+
+2024-08-09 21:16:09,917 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:16:09,917 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:16:09,917 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:16:19,892 INFO [long-pulling] client count 0
+
+2024-08-09 21:16:19,920 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:16:19,920 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:16:19,920 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:16:29,908 INFO [long-pulling] client count 0
+
+2024-08-09 21:16:29,927 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:16:29,927 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:16:29,927 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:16:39,908 INFO [long-pulling] client count 0
+
+2024-08-09 21:16:39,929 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:16:39,929 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:16:39,929 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:16:49,910 INFO [long-pulling] client count 0
+
+2024-08-09 21:16:49,931 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:16:49,931 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:16:49,931 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:16:59,914 INFO [long-pulling] client count 0
+
+2024-08-09 21:16:59,931 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:16:59,931 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:16:59,931 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:17:09,968 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:17:09,979 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:17:09,982 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:17:09,997 INFO [long-pulling] client count 0
+
+2024-08-09 21:17:19,982 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:17:19,982 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:17:19,982 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:17:19,998 INFO [long-pulling] client count 0
+
+2024-08-09 21:17:29,983 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:17:29,983 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:17:29,983 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:17:30,000 INFO [long-pulling] client count 0
+
+2024-08-09 21:17:39,987 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:17:39,987 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:17:39,987 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:17:40,002 INFO [long-pulling] client count 0
+
+2024-08-09 21:17:49,989 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:17:50,006 INFO [long-pulling] client count 0
+
+2024-08-09 21:17:50,006 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:17:50,037 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:18:00,006 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:18:00,039 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:18:00,039 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:18:00,051 INFO [long-pulling] client count 0
+
+2024-08-09 21:18:10,010 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:18:10,047 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:18:10,047 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:18:10,054 INFO [long-pulling] client count 0
+
+2024-08-09 21:18:20,017 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:18:20,048 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:18:20,048 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:18:20,054 INFO [long-pulling] client count 0
+
+2024-08-09 21:18:30,020 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:18:30,050 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:18:30,050 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:18:30,056 INFO [long-pulling] client count 0
+
+2024-08-09 21:18:40,035 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:18:40,051 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:18:40,052 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:18:40,058 INFO [long-pulling] client count 0
+
+2024-08-09 21:18:50,043 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:18:50,059 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:18:50,059 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:18:50,060 INFO [long-pulling] client count 0
+
+2024-08-09 21:19:00,052 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:19:00,062 INFO [long-pulling] client count 0
+
+2024-08-09 21:19:00,070 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:19:00,070 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:19:10,059 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:19:10,064 INFO [long-pulling] client count 0
+
+2024-08-09 21:19:10,078 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:19:10,078 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:19:20,064 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:19:20,067 INFO [long-pulling] client count 0
+
+2024-08-09 21:19:20,080 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:19:20,080 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:19:30,066 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:19:30,067 INFO [long-pulling] client count 0
+
+2024-08-09 21:19:30,080 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:19:30,080 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:19:40,067 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:19:40,068 INFO [long-pulling] client count 0
+
+2024-08-09 21:19:40,081 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:19:40,081 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:19:50,070 INFO [long-pulling] client count 0
+
+2024-08-09 21:19:50,086 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:19:50,094 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:19:50,094 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:20:00,101 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:20:00,101 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:20:00,101 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:20:00,140 INFO [long-pulling] client count 0
+
+2024-08-09 21:20:10,103 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:20:10,104 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:20:10,104 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:20:10,143 INFO [long-pulling] client count 0
+
+2024-08-09 21:20:20,111 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:20:20,112 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:20:20,123 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:20:20,145 INFO [long-pulling] client count 0
+
+2024-08-09 21:20:30,132 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:20:30,137 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:20:30,137 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:20:30,148 INFO [long-pulling] client count 0
+
+2024-08-09 21:20:40,152 INFO [long-pulling] client count 0
+
+2024-08-09 21:20:40,172 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:20:40,172 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:20:40,172 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:20:50,166 INFO [long-pulling] client count 0
+
+2024-08-09 21:20:50,181 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:20:50,181 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:20:50,181 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:21:00,169 INFO [long-pulling] client count 0
+
+2024-08-09 21:21:00,206 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:21:00,206 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:21:00,206 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:21:10,189 INFO [long-pulling] client count 0
+
+2024-08-09 21:21:10,218 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:21:10,218 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:21:10,227 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:21:20,199 INFO [long-pulling] client count 0
+
+2024-08-09 21:21:20,224 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:21:20,224 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:21:20,231 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:21:30,225 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:21:30,241 INFO [long-pulling] client count 0
+
+2024-08-09 21:21:30,232 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:21:30,260 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:21:40,243 INFO [long-pulling] client count 0
+
+2024-08-09 21:21:40,266 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:21:40,266 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:21:40,266 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:21:50,245 INFO [long-pulling] client count 0
+
+2024-08-09 21:21:50,269 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:21:50,269 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:21:50,269 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:22:00,248 INFO [long-pulling] client count 0
+
+2024-08-09 21:22:00,339 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:22:00,339 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:22:00,339 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:22:10,258 INFO [long-pulling] client count 0
+
+2024-08-09 21:22:10,343 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:22:10,346 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:22:10,352 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:22:20,258 INFO [long-pulling] client count 0
+
+2024-08-09 21:22:20,347 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:22:20,347 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:22:20,360 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:22:30,260 INFO [long-pulling] client count 0
+
+2024-08-09 21:22:30,348 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:22:30,348 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:22:30,361 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:22:40,265 INFO [long-pulling] client count 0
+
+2024-08-09 21:22:40,354 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:22:40,357 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:22:40,363 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:22:50,266 INFO [long-pulling] client count 0
+
+2024-08-09 21:22:50,359 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:22:50,359 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:22:50,363 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:23:00,268 INFO [long-pulling] client count 0
+
+2024-08-09 21:23:00,371 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:23:00,374 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:23:00,374 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:23:10,276 INFO [long-pulling] client count 0
+
+2024-08-09 21:23:10,374 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:23:10,374 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:23:10,374 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:23:20,278 INFO [long-pulling] client count 0
+
+2024-08-09 21:23:20,375 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:23:20,379 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:23:20,379 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:23:30,281 INFO [long-pulling] client count 0
+
+2024-08-09 21:23:30,378 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:23:30,380 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:23:30,380 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:23:40,283 INFO [long-pulling] client count 0
+
+2024-08-09 21:23:40,386 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:23:40,402 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:23:40,402 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:23:50,284 INFO [long-pulling] client count 0
+
+2024-08-09 21:23:50,399 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:23:50,403 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:23:50,403 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:24:00,284 INFO [long-pulling] client count 0
+
+2024-08-09 21:24:00,399 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:24:00,405 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:24:00,405 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:24:10,285 INFO [long-pulling] client count 0
+
+2024-08-09 21:24:10,400 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:24:10,406 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:24:10,406 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:24:20,286 INFO [long-pulling] client count 0
+
+2024-08-09 21:24:20,402 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:24:20,409 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:24:20,409 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:24:30,287 INFO [long-pulling] client count 0
+
+2024-08-09 21:24:30,407 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:24:30,410 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:24:30,410 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:24:40,294 INFO [long-pulling] client count 0
+
+2024-08-09 21:24:40,412 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:24:40,415 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:24:40,430 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:24:50,299 INFO [long-pulling] client count 0
+
+2024-08-09 21:24:50,428 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:24:50,430 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:24:50,439 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:25:00,306 INFO [long-pulling] client count 0
+
+2024-08-09 21:25:00,437 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:25:00,441 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:25:00,441 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:25:10,309 INFO [long-pulling] client count 0
+
+2024-08-09 21:25:10,442 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:25:10,442 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:25:10,442 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:25:21,355 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:25:21,355 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:25:21,355 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:25:21,370 INFO [long-pulling] client count 0
+
+2024-08-09 21:25:31,361 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:25:31,371 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:25:31,371 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:25:31,373 INFO [long-pulling] client count 0
+
+2024-08-09 21:25:41,365 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:25:41,374 INFO [long-pulling] client count 0
+
+2024-08-09 21:25:41,382 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:25:41,382 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:25:51,366 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:25:51,375 INFO [long-pulling] client count 0
+
+2024-08-09 21:25:51,383 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:25:51,383 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:26:01,374 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:26:01,379 INFO [long-pulling] client count 0
+
+2024-08-09 21:26:01,392 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:26:01,392 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:26:11,374 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:26:11,380 INFO [long-pulling] client count 0
+
+2024-08-09 21:26:11,394 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:26:11,394 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:26:21,380 INFO [long-pulling] client count 0
+
+2024-08-09 21:26:21,380 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:26:21,399 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:26:21,399 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:26:31,381 INFO [long-pulling] client count 0
+
+2024-08-09 21:26:31,382 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:26:31,404 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:26:31,404 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:26:41,404 INFO [long-pulling] client count 0
+
+2024-08-09 21:26:41,404 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:26:41,409 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:26:41,436 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:26:51,436 INFO [long-pulling] client count 0
+
+2024-08-09 21:26:51,470 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:26:51,470 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:26:51,463 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:27:01,502 INFO [long-pulling] client count 0
+
+2024-08-09 21:27:01,547 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:27:01,551 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:27:01,551 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:27:11,523 INFO [long-pulling] client count 0
+
+2024-08-09 21:27:11,548 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:27:11,552 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:27:11,552 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:27:21,524 INFO [long-pulling] client count 0
+
+2024-08-09 21:27:21,567 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:27:21,571 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:27:21,571 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:27:31,541 INFO [long-pulling] client count 0
+
+2024-08-09 21:27:31,572 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:27:31,572 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:27:31,572 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:27:41,543 INFO [long-pulling] client count 0
+
+2024-08-09 21:27:41,575 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:27:41,575 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:27:41,575 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:27:51,609 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:27:51,609 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:27:51,609 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:27:51,656 INFO [long-pulling] client count 0
+
+2024-08-09 21:28:01,624 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:28:01,624 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:28:01,624 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:28:01,658 INFO [long-pulling] client count 0
+
+2024-08-09 21:28:11,631 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:28:11,634 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:28:11,634 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:28:11,659 INFO [long-pulling] client count 0
+
+2024-08-09 21:28:21,639 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:28:21,643 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:28:21,643 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:28:21,664 INFO [long-pulling] client count 0
+
+2024-08-09 21:28:31,644 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:28:31,644 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:28:31,644 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:28:31,667 INFO [long-pulling] client count 0
+
+2024-08-09 21:28:41,645 INFO groupCount = 0, subscriberClientCount = 0, subscriberCount = 0
+
+2024-08-09 21:28:41,645 INFO toNotifyTaskSize = 0
+
+2024-08-09 21:28:41,645 INFO toClientNotifyTaskSize = 0
+
+2024-08-09 21:28:41,668 INFO [long-pulling] client count 0
+
