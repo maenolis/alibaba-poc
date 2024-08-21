@@ -1,8 +1,0 @@
-2024-08-10 16:41:48,896 INFO [dump] add formal task. groupKey=seata.properties+SEATA_GROUP
-
-2024-08-10 16:41:48,922 INFO [dump] process formal task. groupKey=seata.properties+SEATA_GROUP
-
-2024-08-10 16:41:49,401 INFO [dump] md5 changed, save to disk cache ,groupKey=seata.properties+SEATA_GROUP, newMd5=35821c68a19b1a5361217d88e3ef59c0,oldMd5=
-
-2024-08-10 16:41:49,549 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=seata.properties+SEATA_GROUP, newMd5=35821c68a19b1a5361217d88e3ef59c0,oldMd5=,lastModifiedTs=1723279308000
-
