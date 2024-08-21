@@ -5,6 +5,7 @@ target/
 
 environment/mysql
 environment/mysql1
+environment/standalone-logs
 
 ### IntelliJ IDEA ###
 .idea/
