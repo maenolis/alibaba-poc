@@ -1,15 +1,15 @@
-package com.baeldung.domain;
+package com.baeldung.dto;
 
-public class RocketMessage {
+public class RocketMessageDto {
 
     private Long id;
 
     private String message;
 
-    public RocketMessage() {
+    public RocketMessageDto() {
     }
 
-    public RocketMessage(Long id, String message) {
+    public RocketMessageDto(Long id, String message) {
         this.id = id;
         this.message = message;
     }

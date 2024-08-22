@@ -13,7 +13,7 @@ import org.springframework.messaging.support.GenericMessage;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 
-import com.baeldung.domain.RocketMessage;
+import com.baeldung.dto.RocketMessageDto;
 
 @Component
 public class ScheduledMessageProducer {
@@ -25,12 +25,12 @@ public class ScheduledMessageProducer {
 
     @Scheduled(cron = "* * * * * *")
     public void scheduledMessageProduction() {
-        RocketMessage msg = new RocketMessage(System.currentTimeMillis(), UUID.randomUUID().toString());
+        RocketMessageDto msg = new RocketMessageDto(System.currentTimeMillis(), UUID.randomUUID().toString());
         LOG.info("Sending: {}", msg);
         Map<String, Object> headers = new HashMap<>();
         headers.put(MessageConst.PROPERTY_KEYS, UUID.randomUUID().toString());
         headers.put(MessageConst.PROPERTY_ORIGIN_MESSAGE_ID, System.currentTimeMillis());
-        GenericMessage<RocketMessage> wrappedMessage = new GenericMessage<>(msg);
+        GenericMessage<RocketMessageDto> wrappedMessage = new GenericMessage<>(msg);
         streamBridge.send("producer-out-0", wrappedMessage);
     }
 

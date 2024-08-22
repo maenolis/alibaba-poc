@@ -13,7 +13,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.messaging.Message;
 import org.springframework.web.client.RestTemplate;
 
-import com.baeldung.domain.RocketMessage;
+import com.baeldung.dto.RocketMessageDto;
 
 import io.seata.spring.annotation.GlobalTransactionScanner;
 
@@ -28,9 +28,9 @@ public class CompanyManagementConfiguration {
     }
 
     @Bean
-    Consumer<Message<RocketMessage>> consumer() {
+    Consumer<Message<RocketMessageDto>> consumer() {
         return msg -> {
-//            LOG.info("Got msg: {}", msg);
+            LOG.info("Got msg: {}", msg);
         };
     }
 
