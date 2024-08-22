@@ -13,15 +13,16 @@ public class EmployeeService {
     public EmployeeEntity newManager(Long managerId) {
         jdbcTemplate.update("update employee set is_manager = false where is_manager = true");
         jdbcTemplate.update("update employee set is_manager = true where id = ?", managerId);
-        return jdbcTemplate.query("select * from employee where id = ?", (ps) -> ps.setLong(1, managerId), rs -> {
-            rs.next();
-            return new EmployeeEntity(
+        return jdbcTemplate.queryForObject(
+            "select * from employee where id = ?",
+            (rs, rowNum) -> new EmployeeEntity(
                 rs.getLong("id"),
                 rs.getString("first_name"),
                 rs.getString("last_name"),
                 rs.getBoolean("is_manager")
-            );
-        });
+            ),
+            managerId
+        );
 
     }
 
