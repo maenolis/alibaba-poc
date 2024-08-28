@@ -7,7 +7,7 @@ This repository contains a basic presentation of **spring-cloud-alibaba** module
 ## Project Modules
 ### 1. company-management
 ##### Description
-The company-management module contains exclusively the company related functionality. Also, this module acts as the business orchestrator during integration
+The company-management module contains exclusively company related functionality. Also, this module acts as the business orchestrator during integration
 scenarios. (eg. update manager flow)
 ##### Database Schema
 ###### Manager Table
@@ -18,7 +18,7 @@ scenarios. (eg. update manager flow)
 |last_name|varchar(50)|manager's last name|
 ### 2. employee-management
 ##### Description
-TBD
+The employee-management module handles CRUD operations for the employee related resources. Additionally, the employee-management module is the last service invoked during the update manager flow.
 ##### Database Schema
 ###### Employee Table
 |  column  |  type  |  comment  |
